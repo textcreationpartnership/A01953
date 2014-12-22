@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The schoole of abuse conteining a plesaunt [sic] inuectiue against poets, pipers, plaiers, iesters, 
+
+1. ¶ The Schoole of Abuse.
+
 #####Back#####
-The schoole of abuse conteining a plesaunt [sic] inuectiue against poets, pipers, plaiers, iesters, 
+
+1. ¶ To the right honorable Sir Richard Pipe, Knight, Lorde Maior of the Citie of London, and the right worshipful his brethren, continuance of health and maintenance of ciuil gouernment.
+
+1. To the Gentlewomen Citizens of London, Flourishing dayes with regarde of Credite.
+
 **Types of content**
 
   * There are 8 **verse** lines!
